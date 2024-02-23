@@ -31,7 +31,7 @@ import scipy.signal
 from scipy.optimize import curve_fit
 
 from peakfindingtab import PeakFindingTab
-from straintwisttab_v1 import StrainTwistTab
+from straintwisttab import StrainTwistTab
 from infotab import InfoTab
 
 
